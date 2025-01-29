@@ -27,6 +27,19 @@
 
 ------
 
+## Решение 2
+
+<img src = "img/img3.png" width = 100%>
+<img src = "img/img4.png" width = 100%>
+<img src = "img/img5.png" width = 100%>
+<img src = "img/img6.png" width = 100%>
+<img src = "img/img7.png" width = 100%>
+<img src = "img/img8.png" width = 100%>
+<img src = "img/img9.png" width = 100%>
+
+
+---
+
 ## Дополнительные задания со звёздочкой*
 
 Эти задания дополнительные. Их можно не выполнять. На зачёт это не повлияет. Вы можете их выполнить, если хотите глубже разобраться в материале.
